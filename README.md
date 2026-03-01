@@ -10,4 +10,10 @@ python -m uvicorn backend.app:app --host 127.0.0.1 --port 8000
 then in a new terminal  
 python -m http.server 8080 --bind 127.0.0.1 --directory frontend  
 
-then open frontend on http://127.0.0.1:8080  
+then open frontend on http://127.0.0.1:8080 to access the calcuclator  
+
+## The heatmap
+Run the heatmap_app.py  
+Then run this is the termrinal  
+python -m uvicorn backend.heatmap_app:app --host 127.0.0.1 --port 8001  
+open http://127.0.0.1:8080/Headmap.html to access the heatmap  
