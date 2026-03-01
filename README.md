@@ -20,7 +20,7 @@ open http://127.0.0.1:8080/Headmap.html to access the heatmap
 
 
 ## SDSS 2026 Datathon main repository
-main project: https://github.com/Ancientrains/sdss-Datathon-team44 
+main project: https://github.com/Ancientrains/sdss-Datathon-team44  
 
 ## SDSS 2026 Datathon Devpost submission page
 https://devpost.com/software/public_services-data-file
