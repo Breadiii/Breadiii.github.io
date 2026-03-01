@@ -1,6 +1,6 @@
 # Local ran - Shelter pressure evaluation
 
-## how to locally host
+how to locally host  
 Run the app.py python page  
 In a new terminal run:  
 python -m pip install --user -r backend\requirements.txt  
