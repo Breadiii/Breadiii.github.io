@@ -17,3 +17,7 @@ Run the heatmap_app.py
 Then run this is the termrinal  
 python -m uvicorn backend.heatmap_app:app --host 127.0.0.1 --port 8001  
 open http://127.0.0.1:8080/Headmap.html to access the heatmap  
+
+
+## Notes
+main project: https://github.com/Ancientrains/sdss-Datathon-team44 
