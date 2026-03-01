@@ -31,4 +31,12 @@ class PredictReq(BaseModel):
 @app.post("/predict")
 def predict(req: PredictReq):
     # TODO: replace with real model prediction
+
+@app.get("/")
+def root():
+    return {"ok": True, "message": "API is running. Try /docs or /predict"}
+
+@app.get("/health")
+def health():
+    return {"ok": True}
     return {"pred_pressure": 0.5}
