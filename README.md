@@ -24,3 +24,4 @@ main project: https://github.com/Ancientrains/sdss-Datathon-team44
 
 ## SDSS 2026 Datathon Devpost submission page
 https://devpost.com/software/public_services-data-file
+https://sdss-datathon-2026.devpost.com 
